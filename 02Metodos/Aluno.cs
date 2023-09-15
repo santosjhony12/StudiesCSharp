@@ -5,22 +5,26 @@ class Aluno
     private string nome;
     private int nota1, nota2;
 
-    public double media()
+    // GET E SET
+    public string Nome
     {
-        return (nota1 + nota2) / 2.0; // Usar 2.0 para a média decimal
+        get{return nome;}
+        set{nome = value;}
     }
 
+    public int Nota1
+    {
+        get{return nota1;}
+        set{nota1 = value;}
+    }
+
+    public int Nota2
+    {
+        get{return nota2;}
+        set{nota2 = value;}
+    }
     public void mensagem()
     {
-        Console.WriteLine("Informe o nome do aluno: ");
-        nome = Console.ReadLine();
-
-        Console.WriteLine("Informe a primeira nota: ");
-        nota1 = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("Informe a segunda nota: ");
-        nota2 = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine("A média de " + nome + " é " + media());
+        Console.WriteLine("A média de " + nome + " é " + ((nota1 + nota2)/2.0));
     }
 }
