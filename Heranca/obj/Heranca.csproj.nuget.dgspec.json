@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj": {}
+    "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj": {
+    "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj",
+        "projectUniqueName": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj",
         "projectName": "Heranca",
-        "projectPath": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj",
+        "projectPath": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\Heranca.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\obj\\",
+        "outputPath": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\Heranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"

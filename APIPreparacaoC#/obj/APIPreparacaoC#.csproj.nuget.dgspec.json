@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\02Metodos\\02Metodos.csproj": {}
+    "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\APIPreparacaoC#\\APIPreparacaoC#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\02Metodos\\02Metodos.csproj": {
+    "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\APIPreparacaoC#\\APIPreparacaoC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\02Metodos\\02Metodos.csproj",
-        "projectName": "02Metodos",
-        "projectPath": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\02Metodos\\02Metodos.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\APIPreparacaoC#\\APIPreparacaoC#.csproj",
+        "projectName": "APIPreparacaoC#",
+        "projectPath": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\APIPreparacaoC#\\APIPreparacaoC#.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santo\\OneDrive\\Documentos\\C#\\02Metodos\\obj\\",
+        "outputPath": "C:\\Users\\santo\\OneDrive\\Documentos\\C#\\APIPreparacaoC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config"
